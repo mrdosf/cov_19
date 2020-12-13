@@ -4,7 +4,7 @@ try:
     covid = Covid()
     covid.get_data()
 
-    countries = covid.list_countries() #golbal var
+    countries = covid.list_countries() #global var
     def banner():
         print("#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#")
         print("#                                   #")
