@@ -6,5 +6,8 @@ coded by Md. Furqan Hossen Emam
 -World covid status (total deaths, recovered, active etc)
 -Specific Country infos
 
-Python version used 3.8.2
+#You will need to install a module named covid
+#run this in cmd: "pip install covid"
 
+Python version used 3.8.2
+I am not intended to update this anymore! -_-
